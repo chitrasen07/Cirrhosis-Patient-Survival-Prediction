@@ -1,0 +1,2 @@
+# Cirrhosis Patient Survival Prediction
+Cirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. The project aims to utilize 17 clinical features for predicting the survival state of patients with liver cirrhosis. The survival states include 0 = D (death), 1 = C (censored), and 2 = CL (censored due to liver transplantation).
