@@ -162,7 +162,10 @@ This project is open source and available under the MIT License.
 
 ## 👥 Authors
 
-- Your Name
+- Karunya Kalkhundiya
+- Chitrasen Singh
+- Ankit Mittal
+- Ratan Raj
 
 ## 🙏 Acknowledgments
 
